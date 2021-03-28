@@ -1,0 +1,156 @@
+a{ 
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    padding: 14px 16px;
+}
+ul {
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #6173ed;
+    
+    
+    
+}
+
+li {
+    float: left;
+}
+    
+
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: #61ed61;
+}
+h1{
+    font-size:60px;
+}
+.title { 
+    text-align:center;
+    color:white;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    
+    
+    
+}
+.introduction{
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+
+p{
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+
+h2{
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.tableauplaceholder{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+
+
+.tab button:hover {
+    background-color: #60e06c;
+}
+
+
+.tab button.active {
+    background-color: #ccc;
+}
+
+
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+.paragraph {
+   background-color: #264e8e;
+   text-align: justify;
+   margin: 20px;
+   padding: 5px;
+   border-radius: 5px;
+   color: white;
+   font-family: Rockwell, Arial, Helvetica, sans-serif;
+   opacity: .75;
+}
+
+.Software {
+   background-color: #1cbc10;
+   text-align: justify;
+   margin: 20px;
+   padding: 5px;
+   border-radius: 5px;
+   color: black;
+   font-family: Rockwell, Arial, Helvetica, sans-serif;
+   opacity: .75;
+}
+
+.Development {
+   background-color: #1cbc10;
+   text-align: justify;
+   margin: 20px;
+   padding: 5px;
+   border-radius: 5px;
+   color: black;
+   font-family: Rockwell, Arial, Helvetica, sans-serif;
+   opacity: .75;
+   
+}
+
+.header {
+   background-color: #14910b;
+   text-align: center;
+   font-weight: bold;
+   margin-right: 20px;
+   
+   
+   margin-left: 20px;
+
+   padding: 5px;
+   border-radius: 5px;
+   color: white;
+   font-family: Rockwell, Arial, Helvetica, sans-serif;
+   opacity: .75;
+   
+}
+
+
