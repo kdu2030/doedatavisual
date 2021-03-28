@@ -1,5 +1,5 @@
 # Data Visualization for Department of Education
-![Image of Home Page](images/Home.png)
+![Image of Home Page](images/Home.PNG)
 
 This was an app that I created along with five other students for the Virginia Department of Education. We pulled datasets from the Virginia Department of Education website, and created visualizations of the data using Tableau. We specifically analyzed the "Rural Horseshoe", which are underprivliged counties in the state of Virginia. They include counties such as Augusta, Lee, and Wise County.
 
